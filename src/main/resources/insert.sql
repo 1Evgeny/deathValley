@@ -1,0 +1,21 @@
+INSERT INTO user(name, superName) VALUES ('test', 'test');
+INSERT INTO user(name, superName) VALUES ('test1', 'test1');
+INSERT INTO user(name, superName) VALUES ('test2', 'test2');
+INSERT INTO user(name, superName) VALUES ('test3', 'test3');
+INSERT INTO user(name, superName) VALUES ('test4', 'test4');
+INSERT INTO user(name, superName) VALUES ('test5', 'test5');
+INSERT INTO user(name, superName) VALUES ('test6', 'test6');
+INSERT INTO user(name, superName) VALUES ('test7', 'test7');
+INSERT INTO user(name, superName) VALUES ('test8', 'test8');
+INSERT INTO user(name, superName) VALUES ('test9', 'test9');
+
+INSERT INTO account(account, userId) VALUES (1, 1);
+INSERT INTO account(account, userId) VALUES (2, 2);
+INSERT INTO account(account, userId) VALUES (3, 3);
+INSERT INTO account(account, userId) VALUES (4, 4);
+INSERT INTO account(account, userId) VALUES (5, 5);
+INSERT INTO account(account, userId) VALUES (6, 6);
+INSERT INTO account(account, userId) VALUES (7, 7);
+INSERT INTO account(account, userId) VALUES (8, 8);
+INSERT INTO account(account, userId) VALUES (9, 9);
+INSERT INTO account(account, userId) VALUES (10, 10);
